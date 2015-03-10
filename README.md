@@ -18,4 +18,5 @@ Please create a pull request and add your name to this readme if you'd like to g
 - [Rahat Khanna (mappmechanic)](https://github.com/mappmechanic)
 - [Stuart P. Bentley (stuartpb)](https://github.com/stuartpb)
 - [Dan Jesus (danjesus)](https://github.com/danjesus)
+- [Zoltan Orban (orbanz)](https://github.com/orbanz)
 - `[your-name (your-github-username)](https://github.com/your-github-username)`
